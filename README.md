@@ -1,0 +1,2 @@
+# Graphics
+News paper cover
